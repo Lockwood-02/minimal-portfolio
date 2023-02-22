@@ -18,12 +18,6 @@ export default [
         details: 'One of my first real world experiences with working in technology. There was no coding involved, however it taught me a lot about hardware especially in laptops and chromebooks.',
     },
     {
-        year: '2017',
-        title: 'First Exposure to Java',
-        duration: '3 Years',
-        details: 'Advanced computer science was my introduction to the Java programming language in high school. This would end up being the foundation of my college programming experience.'
-    },
-    {
         year: '2016',
         title: 'First Programming Class',
         duration: 'One Year',
